@@ -1,4 +1,4 @@
-![image](https://github.com/rached64/rached64/assets/52635469/990e6f7c-2a7b-479c-9a50-2e6a5d9096de)### Hi there 👋
+### Hi there 👋
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rached64.rached64" />
 
 <h1 align="center">
