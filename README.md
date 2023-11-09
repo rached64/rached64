@@ -42,7 +42,7 @@
     <img width="50" height="50" src="https://img.icons8.com/ios/50/hacker.png" alt="hacker"/>
     <img width="50" height="50" src="https://img.icons8.com/ios/50/000000/burp-suite.png" alt="burp-suite"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/metasploit.png" alt="metasploit"/>
-    <img width="70" height="48" src="https://d7umqicpi7263.cloudfront.net/img/product/e2038a1c-4b66-4173-9a8d-3d9b57ae4a7b/db98ce75-89ce-48f7-8c03-a5a26d8f07e8" alt="Icon">
+    <img width="80" height="48" src="https://d7umqicpi7263.cloudfront.net/img/product/e2038a1c-4b66-4173-9a8d-3d9b57ae4a7b/db98ce75-89ce-48f7-8c03-a5a26d8f07e8" alt="Icon">
 </div>
 
 <br/>
