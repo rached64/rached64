@@ -42,12 +42,13 @@
     <img width="50" height="50" src="https://img.icons8.com/ios/50/hacker.png" alt="hacker"/>
     <img width="50" height="50" src="https://ih1.redbubble.net/image.330661902.3438/st,small,845x845-pad,1000x1000,f8f8f8.u1.jpg" alt="kali"/>
     <img width="60" height="60" src="https://guide-images.cdn.ifixit.com/igi/b2NpQqMkTjN2m5KC.large" alt="parrot"/>
+    <img width="50" height="50" src="https://www.clipartmax.com/png/small/92-925106_vmware-workstation-logo-png.png" alt="vmware"/>
     <img width="70" height="50" src="https://jacobriggs.io/tools/app/web/upload/large/3_eedab2dbcde47a63f847af0a612d1f8d.png" alt="burp-suite"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/metasploit.png" alt="metasploit"/><br>
     <img width="80" height="48" src="https://midlandinfosys.com/images/300w-Qradar-IBM-logo.png" alt="qradar">
     <img width="80" height="40" src="https://www.pkfavantedge.com/wp-content/uploads/2016/04/avlogo.jpg" alt="alienValut">
     <img width="80" height="40" src="https://d7umqicpi7263.cloudfront.net/img/product/e2038a1c-4b66-4173-9a8d-3d9b57ae4a7b/db98ce75-89ce-48f7-8c03-a5a26d8f07e8" alt="wazuh">
-    <img width="90" height="35" src="https://logrhythm.com/wp-content/uploads/2023/05/LogRhythm_R_Logo_ForLightBackgrounds_RGB.png" alt="logryhtme">
+    <img width="100" height="35" src="https://logrhythm.com/wp-content/uploads/2023/05/LogRhythm_R_Logo_ForLightBackgrounds_RGB.png" alt="logryhtme">
 
 </div>
 
