@@ -35,7 +35,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Web Development-SOC-Web Hacking ⚒️</h2>
+<h2 align="center">⚒️ Web Development-Web Hacking-SOC-Threat intelligence ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,angular,py,flask,mysql,linux,laravel,php,vscode" /> <br>
