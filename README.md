@@ -45,7 +45,7 @@
     <img width="80" height="48" src="https://midlandinfosys.com/images/300w-Qradar-IBM-logo.png" alt="qradar">
     <img width="80" height="40" src="https://www.pkfavantedge.com/wp-content/uploads/2016/04/avlogo.jpg" alt="alienValut">
     <img width="80" height="40" src="https://d7umqicpi7263.cloudfront.net/img/product/e2038a1c-4b66-4173-9a8d-3d9b57ae4a7b/db98ce75-89ce-48f7-8c03-a5a26d8f07e8" alt="wazuh">
-    <img width="90" height="48" src="https://logrhythm.com/wp-content/uploads/2023/05/LogRhythm_R_Logo_ForLightBackgrounds_RGB.png" alt="logryhtme">
+    <img width="90" height="40" src="https://logrhythm.com/wp-content/uploads/2023/05/LogRhythm_R_Logo_ForLightBackgrounds_RGB.png" alt="logryhtme">
 
 </div>
 
