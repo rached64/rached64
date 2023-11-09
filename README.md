@@ -51,8 +51,8 @@
     <img width="100" height="35" src="https://logrhythm.com/wp-content/uploads/2023/05/LogRhythm_R_Logo_ForLightBackgrounds_RGB.png" alt="logryhtme"> <br>
     <img width="80" height="40" src="https://cdn-0.reconshell.com/wp-content/uploads/2021/01/opencti_logo.png" alt="opencti">
     <img width="50" height="40" src="https://www.domaintools.com/wp-content/uploads/MISP.png" alt="misp">
-    <img width="50" height="70" src="https://docs.thehive-project.org/thehive/images/thehive-logo.png" alt="thehive">
-    <img width="50" height="70" src="https://docs.thehive-project.org/cortex/images/cortex-logo.png" alt="cortex">
+    <img width="50" height="40" src="https://docs.thehive-project.org/thehive/images/thehive-logo.png" alt="thehive">
+    <img width="50" height="40" src="https://docs.thehive-project.org/cortex/images/cortex-logo.png" alt="cortex">
 
 
 </div>
