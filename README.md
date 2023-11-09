@@ -39,8 +39,8 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,angular,py,flask,mysql,linux,laravel,php,vscode" />
- <!--    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>-->
     <img width="50" height="50" src="https://img.icons8.com/ios/50/hacker.png" alt="hacker"/>
+ <!--    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>-->
 </div>
 
 <br/>
