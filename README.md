@@ -40,6 +40,8 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,angular,py,flask,mysql,linux,laravel,php,vscode" /> <br>
     <img width="50" height="50" src="https://img.icons8.com/ios/50/hacker.png" alt="hacker"/>
+    <img width="50" height="50" src="https://img.icons8.com/ios/50/000000/burp-suite.png" alt="burp-suite"/>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/metasploit.png" alt="metasploit"/>
  <!--    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>-->
 </div>
 
