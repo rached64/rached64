@@ -2,7 +2,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rached64.rached64" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&random=false&width=435&lines=Hi+%2C+I'm+Rached+Cherif+!+" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&random=false&width=435&I'm+Rached+Cherif+!+" alt="Typing SVG" />
 </h1>
 <h3 align="center">A cybersecurity enthusiast from Tunisia TN</h3>
 
