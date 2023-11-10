@@ -76,7 +76,7 @@
   <img width=390 src="https://streak-stats.demolab.com/?user=rached64&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=rached64&show_icons=true&theme=radical" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rached64&size_weight=0.5" />
+<!--  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rached64&size_weight=0.5" [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) /> -->
 </div>
 
 <br/><br/>
